@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tart-saki.github.io/sitemap.xml
