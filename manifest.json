@@ -1,0 +1,71 @@
+{
+  "name": "Saki Market Game",
+  "short_name": "SMG",
+  "description": "Saki Market Game (SMG) is a novel decentralized AI-driven market framework combining game theory, adaptive pricing, blockchain settlement, anti-collusion mechanisms, Proof of Contribution Competition (PoCC), and fairness constraints.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#040914",
+  "theme_color": "#081326",
+  "lang": "en",
+  "categories": [
+    "technology",
+    "business",
+    "finance",
+    "energy",
+    "blockchain",
+    "artificial intelligence"
+  ],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "og-image.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "GitHub Repository",
+      "short_name": "GitHub",
+      "description": "Open the official Saki Market Game GitHub repository",
+      "url": "https://github.com/Tart-saki/saki-market-game",
+      "icons": [
+        {
+          "src": "og-image.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Whitepaper",
+      "short_name": "Whitepaper",
+      "description": "Read the Saki Market Game whitepaper",
+      "url": "https://raw.githubusercontent.com/Tart-saki/saki-market-game-whitepaper/98163f20dd325dd88291b31ac9971ff5f43d79c7/Saki_Market_Game_whitepaper.pdf",
+      "icons": [
+        {
+          "src": "og-image.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "short_name": "Video",
+      "description": "Watch the Saki Market Game introduction video",
+      "url": "https://youtu.be/LB27_viGH5U?is=xRw2tV5lH0CC7xA0",
+      "icons": [
+        {
+          "src": "og-image.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
